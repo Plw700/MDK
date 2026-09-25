@@ -8,3 +8,4 @@ function getDiscount(user, amount) {
 }
 
 module.exports = { getDiscount };
+function brokenSyntax( {
